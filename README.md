@@ -11,7 +11,7 @@
 ### Version - V1.0 Beta
 
 ### Goals:
-- Build a chart pattern image recognition and evaluate if chart patterns are usefull to predict future prices in the market
+- Build a chart pattern image recognition model and evaluate if chart patterns are usefull to predict future prices in the market
 
 ### Version Updates
 - Importing pickle data
