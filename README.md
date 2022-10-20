@@ -11,7 +11,7 @@
 ### Version - V1.0 Beta
 
 ### Goals:
-- Build a chart pattern image recognition model and evaluate if chart patterns are usefull to predict future prices in the market
+- Build a chart pattern image recognition model and evaluate if chart patterns are useful to predict future prices in the market
 
 ### Version Updates
 - Importing pickle data
@@ -25,7 +25,7 @@
 - Add Automated Download dataset from google images 
 - Add other CATEGORIES such as Flags, Pennant, Cup and handle and so on. 
 - Add Auto Test Image from any Chart 
-- Evaluate how usefull chart patterns are to predict future prices 
+- Evaluate how useful chart patterns are to predict future prices 
 
 
 ### Author - Luiz Gabriel Bongiolo
